@@ -3,7 +3,7 @@ title: "Add Lightness"
 enableToc: false
 ---
 
-Welcome to my digital garden.
+# Welcome to my digital garden.
 
 ## Get Started
 
