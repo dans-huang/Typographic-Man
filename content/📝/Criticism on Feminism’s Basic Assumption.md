@@ -1,6 +1,6 @@
 ---
 title: "Criticism on Feminism’s Basic Assumption"
-draft: 
+draft: true
 ---
 #📝️/🌿 
 Judging from the podcast I heard from professor Anne Phillips:

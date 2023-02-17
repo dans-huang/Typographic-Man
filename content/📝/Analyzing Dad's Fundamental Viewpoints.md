@@ -1,6 +1,6 @@
 ---
 title: "Analyzing Dad's Fundamental Viewpoints"
-draft: 
+draft: true
 ---
  #📝️/🌱 
 
