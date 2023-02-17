@@ -1,5 +1,5 @@
 ---
-title: Add Lightness
+title: "Add Lightness"
 enableToc: false
 ---
 
