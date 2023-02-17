@@ -1,6 +1,5 @@
 ---
 title: ""
-draft: true
+draft: 
 ---
-#📝️/🌱 
 

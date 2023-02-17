@@ -1,4 +1,8 @@
-tags: #🗺
+---
+title: "God MOC"
+draft: 
+---
+#🗺 
 
 ---
 Who is God?

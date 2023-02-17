@@ -1,6 +1,9 @@
-tags: #🗺
-
 ---
+title: "Bitcoin MOC"
+draft: 
+---
+ #🗺
+
 # Books
 [[The Fiat Standard The Debt Slavery Alternative to Human Civilization]]
 
