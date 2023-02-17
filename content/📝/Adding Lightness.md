@@ -1,8 +1,9 @@
-tags: #📝️/🌱 
-links: [[社會]]、[[哲學]]、[[科技]]、[[]]、[[]]、[[]]、[[]]、[[]]
-ref: https://chat.openai.com/
-
 ---
+title: "Adding Lightness"
+draft: 
+---
+#📝️/🌱 
+
 # what is lightness
 
 In the context of design and engineering, "lightness" refers to the reduction of weight or mass in a product or structure without compromising its strength, stability, or performance. Lightness is often sought after because it can result in greater efficiency, improved performance, and reduced resource consumption, while still maintaining or improving the quality and durability of the product.
@@ -48,3 +49,7 @@ Web 3.0, which is sometimes referred to as the "Semantic Web," has the potential
     
 
 Overall, Web 3.0 has the potential to help the world acquire a global ethic by promoting transparency, collaboration, and accountability, while also protecting privacy and security. It could help to create a more connected and collaborative world, where people work together towards common goals and values. However, it is important to note that the success of Web 3.0 in promoting a global ethic will depend on the values and ethics of the people who develop and use the technology, and on the policies and regulations that are put in place to govern its use.
+
+---
+links: [[社會]]、[[哲學]]、[[科技]]、[[]]、[[]]、[[]]、[[]]、[[]]
+ref: https://chat.openai.com/

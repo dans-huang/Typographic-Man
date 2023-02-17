@@ -1,8 +1,8 @@
-tags: #📝️/🌿 
-links: [[兩性]]、[[意識形態]]、[[價值]]、[[社會]]、[[]]、[[]]、[[]]、[[]]
-Ref: 
-
 ---
+title: "Criticism on Feminism’s Basic Assumption"
+draft: 
+---
+#📝️/🌿 
 Judging from the podcast I heard from professor Anne Phillips:
 
 Feminism deems the world as a power game ultimately. They criticize the fact that those in power are mostly men and that’s the oppressing patriarchy against women.
@@ -68,3 +68,7 @@ But consider the alternative: communism has already shows how it can bring equal
 Novel prize winning economist Milton Friedman thus said "Any society that puts equality before freedom will end up with neither. On the other hand, a society that puts freedom first will, as a happy byproduct, end up with both greater freedom and greater equality”.
 
 And once again, that essentially tells us why it’s a better idea to promote individual sovereignty and give people the freedom to live their lives fully without any judgement from both the society’s standard or ideology. We might find more happy housewives as we no longer tell them to be ashamed about their choices, or we might find more female CEOs of the largest companies committed to their career. Or we might find that we’re not too far from the ideal after all, but now without no judgements and victimhood. Maybe the world where it’s truly equal is the place where people can live happily with all the inequality but no one is playing victims for any specific group identity. Maybe the world feminists should want is the world in which it’s no longer needed.
+
+---
+links: [[兩性]]、[[意識形態]]、[[價值]]、[[社會]]、[[]]、[[]]、[[]]、[[]]
+Ref: 

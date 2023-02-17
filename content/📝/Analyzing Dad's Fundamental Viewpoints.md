@@ -1,11 +1,9 @@
-tags: #📝️/🌱 
-links: [[]]、[[]]、[[]]、[[]]、[[]]、[[]]、[[]]、[[]]
-ref: 
-[[Meditations on Moloch]]
-[[Alex Epstein - The Moral Case for Fossil Fuels]]
-[[Bishop Robert Barron Christianity and the Catholic Church]]
-
 ---
+title: "Analyzing Dad's Fundamental Viewpoints"
+draft: 
+---
+ #📝️/🌱 
+
 - Worship of a subjective, undefined, conflicting ideal of 'nature'
 	- **He thinks we should 'take care of' our body by adopting an optimized 'natural' lifestyle (but failed to mention what that 'natural' lifestyle really looks like, and why it's not like stone age human species), but also should seek medical assistance (when he agrees it's better) and avoid medical assistance (when he disagree because it's 'unnatural') both at the same time.**
 	- On one hand, we should do the correct things (which we only know largely because of the cumulation of knowledge and science) to prolong our life and health, but on the other hand, he agrees there're too many humans so some probably will have to die. 
@@ -20,3 +18,10 @@ ref:
 
 - Pride
 	- His north star for good and evil essentially goes back to himself, thus he cannot appreciate God, the way things are, and the things that he should not credit himself for (like good luck).
+
+---
+links: [[]]、[[]]、[[]]、[[]]、[[]]、[[]]、[[]]、[[]]
+ref: 
+[[Meditations on Moloch]]
+[[Alex Epstein - The Moral Case for Fossil Fuels]]
+[[Bishop Robert Barron Christianity and the Catholic Church]]

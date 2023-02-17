@@ -1,8 +1,9 @@
-tags: #📝️/🌱 
-links: [[社會]]、[[婚姻]]、[[]]、[[]]、[[]]、[[]]、[[]]、[[]]
-ref: https://youtu.be/I957o08voU0
-
 ---
+title: "A case against and for Gay Marriage"
+draft: 
+---
+ #📝️/🌱 
+
 People who are against gay marriage believes that marriage is a union for procreation, or at least should be always be opened to the possibility of that. They'll be challenged from the other side by saying "how about couples who don't want to have children / are infertile / are gay even?"
 
 Matt Walsh uses the phrase "by nature" to describe the fundamental meaning/purpose for marriage, being for procreation "by its own nature". Much like we have a biological definition for what is a "woman" which is based on nature, but it does not mean any infertile woman is then not a woman anymore. 
@@ -24,3 +25,7 @@ The call for responsibility (for procreation) is what gives meaning to many peop
 One may, however, argue that from a higher standpoint, the societal collapse is a more efficient and 'fair' way to restore the balance on Earth (i.e. reduce human beings) without our intentional interference with the society which might cause more harm than good. 
 
 I'd say this is somewhat correct, but an extremely cruel, cynical, and "conservative" view of human species, as it assumes we can do nothing to prevent our societal collapse and nature simply need to swipe us out (i.e. killing lots of people) to restore its balance. I believe as time goes on, we can do better and have been doing better, and will need to find a shared global ethic that'll at the same time call for voluntarily adoption of responsibilities from the individuals but also allowing them to have the maximum freedom. I believe this will have something to do with the societal design in which we've already tipped our toes, alongside the technological progress.
+
+---
+links: [[社會]]、[[婚姻]]、[[]]、[[]]、[[]]、[[]]、[[]]、[[]]
+ref: https://youtu.be/I957o08voU0
