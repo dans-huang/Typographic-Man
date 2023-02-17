@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "9f3279c40dfb55f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3679e3d7962476d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e936b92e76cdc08d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📝/Why you don't want selfless love.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f1740c15547fcc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "364b7f825b715a30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aad3f85826ea091b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#📝️/🌲️",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "c5a040a88e4f0e38",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7a83113139c4bc2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7412688da34fb3ec",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346
+  },
+  "right": {
+    "id": "bf8c84108f60799f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a98153d17d2cd438",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea4dbf18a75cb6c1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📝/Why you don't want selfless love.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b36525f4b456a99",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "📝/Why you don't want selfless love.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c81f35de0b117a0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "📝/Why you don't want selfless love.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "b7a83113139c4bc2",
+  "lastOpenFiles": [
+    "📝/Comments/The wrong measure for all things.md",
+    "📝/Why you don't want selfless love.md",
+    "📝/以無政府主義視角推論虛擬幣的未來.md",
+    "📝/概論AI生成算圖.md",
+    "📝/論「紅藥丸」與男性的生命責任.md",
+    "📝/誠實是社會參與的基石.md",
+    "📝/「樂觀虛無主義」的謬誤.md",
+    "📝/Man's Search for meaning.md",
+    "📝/神聖個人概論.md",
+    "📝/關於「個人神聖性」的不同觀點之比較.md"
+  ]
+}

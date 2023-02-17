@@ -1,0 +1,22 @@
+{
+  "accentColor": "",
+  "fileSortOrder": "alphabetical",
+  "promptDelete": false,
+  "readableLineLength": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showFrontmatter": false,
+  "strictLineBreaks": true,
+  "showLineNumber": false,
+  "vimMode": false,
+  "lineWrap": true,
+  "alwaysUpdateLinks": true,
+  "showIndentGuide": true,
+  "autoPairBrackets": true,
+  "rightToLeft": false,
+  "spellcheck": true,
+  "autoConvertHtml": true,
+  "useTab": true,
+  "smartIndentList": true,
+  "autoPairMarkdown": true
+}

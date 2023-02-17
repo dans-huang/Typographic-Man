@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "9f3279c40dfb55f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "78c6110e107c76c4",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "78c6110e107c76c4",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f1740c15547fcc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "364b7f825b715a30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aad3f85826ea091b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#🗃/🟨",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "c5a040a88e4f0e38",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "c5a040a88e4f0e38",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7a83113139c4bc2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7412688da34fb3ec",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346
+  },
+  "right": {
+    "id": "bf8c84108f60799f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a98153d17d2cd438",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea4dbf18a75cb6c1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b36525f4b456a99",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c81f35de0b117a0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b7a83113139c4bc2",
+  "lastOpenFiles": [
+    "✍🏼/筆記：神、基督教.md",
+    "📝/論「紅藥丸」與男性的生命責任.md",
+    "🗃/Religion/Bishop Robert Barron Christianity and the Catholic Church.md",
+    "🗃/Philosophy/阿奎那：五路論證.md",
+    "🗃/Comments/The Gloves Come Off A New Strategy for Fighting the Woke  Douglas Murray  POLITICS  Rubin Report.md",
+    "✍🏼/Modern men's distaste for human ideal and potential.md",
+    "✍🏼/秩序是靈魂的第一需要.md",
+    "📝/社會的價值階級.md",
+    "📝/Exploring Confuciousnism as a social technology.md",
+    "📝/民主作為一種「社會性科技」.md"
+  ]
+}

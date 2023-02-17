@@ -1,5 +1,5 @@
 ---
-title: 🪴 Quartz 3.
+title: Add Lightness
 enableToc: false
 ---
 
