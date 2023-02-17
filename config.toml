@@ -6,6 +6,7 @@ ignoreFiles = [
     "/content/🔏/*",
     "/content/⚙/*",
     "/content/Readwise/*",
+    "/content/🗃/*",
 ]
 summaryLength = 20
 paginate = 10
