@@ -1,3 +1,7 @@
+---
+title: "Connecting Buddhism and Christianity"
+draft: true
+---
 #📝️/🌱 
 
 220619

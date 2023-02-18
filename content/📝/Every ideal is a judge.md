@@ -1,3 +1,7 @@
+---
+title: "Every ideal is a judge"
+draft: 
+---
  #📝️/🌲️ 
  
 ---

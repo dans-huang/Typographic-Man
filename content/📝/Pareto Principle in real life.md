@@ -1,3 +1,7 @@
+---
+title: "Pareto Principle in real life"
+draft: 
+---
 #📝️/🌿
 
 Meritocracy & Education

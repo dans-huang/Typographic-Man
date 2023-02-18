@@ -1,3 +1,7 @@
+---
+title: "Standing the test of time"
+draft: 
+---
 #📝️/🌿 #✍🏼/🔴 
 
 Lindy effect

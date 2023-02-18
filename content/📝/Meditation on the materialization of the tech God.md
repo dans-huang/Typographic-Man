@@ -1,3 +1,7 @@
+---
+title: "Meditation on the materialization of the tech God"
+draft: 
+---
 #📝️/🌱 
 
 Tech is almost always designed to solve problem or streamline processes that were otherwise cumbersome. In other words, it's often designed to 'offload' certain things that humans knew how to do but for some reason cannot, would not, and/or fail to do at a larger scale.
