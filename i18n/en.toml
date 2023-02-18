@@ -11,7 +11,7 @@ other = "All {{.Title}}"
 other = "Last updated"
 
 [notes_count]
-other = "notes with this tag"
+other = "writings with this tag"
 
 [first_10]
 other = "showing first 10 results"
@@ -50,7 +50,7 @@ other = "Search Icon"
 other = "Icon to open search"
 
 [recent_notes]
-other = "Recent Notes"
+other = "Recent Writings"
 
 [first_3_notes]
 other = "first 3 {{ .notes }}"

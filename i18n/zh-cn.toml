@@ -1,32 +1,32 @@
 [404_message]
-other = "喔哦...... 你是不是迷路了呀..... (⌯' '⌯ ) 这个页面并不存在（也许它还未被发布）。"
+other = "此頁面並不存在（可能尚未被發布）。"
 
 [404_back]
-other = "↳ 回到主页"
+other = "↳ 回到主頁"
 
 [all_posts]
 other = "所有 {{.Title}}"
 
 [last_updated]
-other = "最后更新于"
+other = "最後更新於"
 
 [notes_count]
-other = "带有此标签的笔记"
+other = "帶有此標籤的筆記"
 
 [first_10]
-other = "正在展示前10个结果"
+other = "正在展示前10個結果"
 
 [tag]
-other = "标签"
+other = "標籤"
 
 [backlinks]
-other = "反向链接"
+other = "反向鏈接"
 
 [no_backlinks]
-other = "没有找到反向链接"
+other = "沒有找到反向鏈接"
 
 [home]
-other = "主页"
+other = "主頁"
 
 [light_mode]
 other = "明亮模式"
@@ -35,31 +35,32 @@ other = "明亮模式"
 other = "黑暗模式"
 
 [edit_source]
-other = "编辑源码"
+other = "編輯源碼"
 
 [interactive_graph]
-other = "互动图"
+other = "互動圖"
 
 [search]
-other = "搜索"
+other = "搜尋"
 
 [search_icon]
-other = "搜索图标"
+other = "搜尋圖標"
 
 [icon_search]
-other = "打开搜索图标"
+other = "打開搜尋圖標"
 
 [recent_notes]
-other = "近期笔记"
+other = "近期寫作"
 
 [first_3_notes]
-other = "前3个 {{ .notes }}"
+other = "前3個 {{ .notes }}"
 
 [search_for_something]
-other = "进行搜索......"
+other = "進行搜尋......"
 
 [toc]
-other = "目录"
+other = "目錄"
 
 [copyright]
-other = "由 {{ .name }} 用 <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a> 创造, © {{ .year }}"
+other = "由 {{ .name }} 用 <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a> 創造, © {{ .year }}"
+
