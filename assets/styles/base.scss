@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Times:wght@400;600;700&family=Sans+Serif:wght@400;600&display=swap');
 :root {
   --font-body: "Sans Serif";
-  --font-header: "Athelas";
+  --font-header: "Times";
   --font-mono: "Fira Code"
 }
 
@@ -23,8 +23,8 @@ html {
 .singlePage {
   padding: 4em 30vw;
   margin: 0 auto;
-  max-width: 1000px;
-  @media all and (max-width: 1200px) {
+  max-width: 1200px;
+  @media all and (max-width: 1500px) {
     padding: 25px 5vw;
   }
 }
