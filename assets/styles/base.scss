@@ -1,8 +1,8 @@
 // Replace this with your own font imports!
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Bodoni+MT:wght@400;600;700&family=Sans+Serif:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Lora:ital,wght@0,400;0,600;0,700;1,400&display=swap;700&family=Sans+Serif:wght@400;600&display=swap');
 :root {
   --font-body: "Sans Serif";
-  --font-header: "Bodoni MT";
+  --font-header: "Lora";
   --font-mono: "Fira Code"
 }
 
@@ -23,8 +23,8 @@ html {
 .singlePage {
   padding: 4em 30vw;
   margin: 0 auto;
-  max-width: 1100px;
-  @media all and (max-width: 1300px) {
+  max-width: 1000px;
+  @media all and (max-width: 1200px) {
     padding: 25px 5vw;
   }
 }
