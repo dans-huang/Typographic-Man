@@ -1,9 +1,5 @@
-tags: #📝️/🌿
-links: [[教育]]、[[科技]]、[[金融]]、[[投資]]、[[]]、[[]]、[[]]、[[]]
-Ref:
-https://open.spotify.com/episode/09EmYxkGLxHwjuDUSKhqAE?si=daadf38a75a14b56
+#📝️/🌿
 
----
 Meritocracy & Education
 
 
@@ -31,3 +27,8 @@ Index fund should work amazingly when most people are not using it, but now we'r
 "In a world with exclusively passive investors, capital will get allocated only to the big companies and not necessarily to good, promising, or efficient companies. A gravitational, big-getting-bigger effect would dominate stock-price movements."
 
 "The problem is not just the indexers. It is the public markets they reflect, where more chaos, more speculation, more risk, more innovation, and more competition are desperately needed."
+
+---
+links: [[教育]]、[[科技]]、[[金融]]、[[投資]]、[[]]、[[]]、[[]]、[[]]
+Ref:
+https://open.spotify.com/episode/09EmYxkGLxHwjuDUSKhqAE?si=daadf38a75a14b56

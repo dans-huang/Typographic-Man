@@ -1,11 +1,5 @@
-tags: #📝️/🌱 
-links: [[科技]]、[[人工智慧]]、[[]]、[[]]、[[]]、[[]]、[[]]、[[]]
-ref: 
-https://zh.wikipedia.org/zh-tw/%E6%8A%80%E6%9C%AF%E5%8F%B2
-[[Technology Is Not Values Neutral Ending the Reign of Nihilistic Design]]
-[[Meditations on Moloch]]
+#📝️/🌱 
 
----
 Tech is almost always designed to solve problem or streamline processes that were otherwise cumbersome. In other words, it's often designed to 'offload' certain things that humans knew how to do but for some reason cannot, would not, and/or fail to do at a larger scale.
 
 Throughout the coevolution between human and tech, we continually offload certain labors/functionalities of the human activities to tech, and that's why technological progress almost always make certain jobs obsolete while making new jobs available. So we can see that tech also keeps 'assigning' new missions/labors/functionalities for humans to learn and master. 
@@ -39,3 +33,9 @@ With all that combined, in a way we can say that the god of tech simply exploits
 
 I'm not sure if we as a global community, or at least the more important and capable ones that're involved with the creation of the AGI, will be able to agree on a set of rules/values beforehand so that when we materialize the tech God, it'll be on our side, and not see us as pity creatures that are in the way of its further endeavor. 
 
+---
+links: [[科技]]、[[人工智慧]]、[[]]、[[]]、[[]]、[[]]、[[]]、[[]]
+ref: 
+https://zh.wikipedia.org/zh-tw/%E6%8A%80%E6%9C%AF%E5%8F%B2
+[[Technology Is Not Values Neutral Ending the Reign of Nihilistic Design]]
+[[Meditations on Moloch]]

@@ -1,8 +1,5 @@
-tags: #📝️/🌱 
-links: [[佛教]]、[[基督教]]、[[]]、[[]]、[[]]、[[]]、[[]]、[[]]
-Ref: 
+#📝️/🌱 
 
----
 220619
 **Space and time is an "user interface" in which humans operate. Christianity tells the story about how to live a purposeful and virtuous (creating/sustaining the wellbeing of the human community) life within this human UI, i.e. the truth WITHIN human existence. Buddhism tells the story about piercing through the limitation and illusion of this human UI to understand (not experience) the true nature of reality, i.e. the truth BEYOND human existence.**
 
@@ -36,3 +33,7 @@ A real Buddhist acts out Buddha's teaching with no judgement, no resentment, and
 Buddha recognizes the original sins/ignorance of people, thus we need to bear the burden of suffering. To stop the suffering, you need to be actively acting out the correct ways of being in order to cease to suffer. This is just like hoe Jesus taught us to act according to god's will so we can transcend from our original sins.
 
 Christianity provides a clear framework with powerful story to show case how an individual needs to carry his own cross and transcend his sins. Buddhism provides the day-to-day methodologies to help us find the God-ness in our hearts through the eightfold path. Christianity focuses more on the stories and the teaching in them, and provide less concrete method/training to the masses for them to practice their mind. Buddhism is less illustrative with their stories but very detailed in the methodologies and practices, but it can be easily overwhelming as there're simply too many classics in Buddhism that provides infinite amount of information for a normal practitioner to digest.
+
+---
+links: [[佛教]]、[[基督教]]、[[]]、[[]]、[[]]、[[]]、[[]]、[[]]
+Ref: 
