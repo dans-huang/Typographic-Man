@@ -1,8 +1,8 @@
 // Replace this with your own font imports!
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Cormorant:wght@500;600;700&display=swap&family=Cormorant+Garamond:wght@600;700&display=swap&family=Noto+Serif+TC:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Cormorant:wght@500;600;700&display=swap&family=Times:wght@500;600&display=swap&family=Noto+Serif+TC:wght@400;500&display=swap');
 :root {
-  --font-body: "Cormorant Garamond";
-  --font-header: "Cormorant" & "Noto Serif Traditional Chinese";
+  --font-body: "Times" & "Noto Serif Traditional Chinese";
+  --font-header: "Cormorant";
   --font-mono: "Fira Code"
 }
 
