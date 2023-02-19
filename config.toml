@@ -3,10 +3,10 @@ defaultContentLanguage = 'en'
 [languages]
   [languages.en]
     title = 'Add Lightness'
-    weight = 1
+    weight = 2
   [languages.zh]
     title = 'Add Lightness'
-    weight = 2
+    weight = 1
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
