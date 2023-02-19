@@ -35,4 +35,3 @@ globalGraph:
 
 paths:
   - /moc: "#4388cc"
-baseURL = "https://dans-huang.github.io/Add-Lightness/"
