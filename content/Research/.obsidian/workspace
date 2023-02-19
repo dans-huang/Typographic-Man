@@ -8,12 +8,37 @@
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
-          "stack": []
+          "stack": [
+            {
+              "leaf": "a46c0658bc6c94a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📝/道德的動物學基礎.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a46c0658bc6c94a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📝/時間之於人類的角色.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "a46c0658bc6c94a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📝/基督宗教中的神聖個人.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "a46c0658bc6c94a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📝/情境主義的警告.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":9},\"to\":{\"line\":31,\"ch\":9}},\"scroll\":9.871212121212121}"
+            }
+          ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝/情境主義的警告.md",
+            "file": "📝/道德的動物學基礎.md",
             "mode": "source",
             "source": false
           }
@@ -33,6 +58,10 @@
           {
             "id": "aad3f85826ea091b",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "search",
               "state": {
@@ -96,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝/情境主義的警告.md",
+                "file": "📝/道德的動物學基礎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝/情境主義的警告.md",
+                "file": "📝/道德的動物學基礎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📝/情境主義的警告.md"
+                "file": "📝/道德的動物學基礎.md"
               }
             }
           }
@@ -150,17 +179,17 @@
     "width": 354.5,
     "collapsed": true
   },
-  "active": "c5a040a88e4f0e38",
+  "active": "a46c0658bc6c94a8",
   "lastOpenFiles": [
+    "📝/時間之於人類的角色.md",
+    "📝/道德的動物學基礎.md",
+    "📝/基督宗教中的神聖個人.md",
+    "📝/情境主義的警告.md",
+    "📝/個人德性受脈絡所定.md",
     "📝/科技革新的法則.md",
     "📝/對意義的渴望.md",
     "📝/二階效用(2nd order effect).md",
     "📝/「生命意義」問題的本質.md",
-    "📝/情境主義的警告.md",
-    "📝/基督教的核心.md",
-    "⚙️/2 - card (main) - footer.md",
-    "🗃/Religion/Bishop Robert Barron Christianity and the Catholic Church.md",
-    "⚙️/1 - card (main) - header.md",
-    "📝/切實地認識自己的父母.md"
+    "📝/基督教的核心.md"
   ]
 }
