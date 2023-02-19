@@ -36,6 +36,7 @@ Ref: [[個人德性的意義與責任]]
   So in a real software sense it's like, we should strive to understand why Windows 3.11 works (and works very well) given the state of technology, the design principles behind the its features and functionalities, what it was maximizing/optimizing for / oriented toward, and WHY it might or might not still matter for the next version of Windows. With such understanding, can we safely, knowingly, and confidently move forward to the next version, knowing (not full well, but well enough) how to navigate with the latest state of technology like the advancement of face recognition, AI, wireless connection, touch screens, etc, and orient ourselves toward the right goal so it's totally okay for us to abandon the older OS for the newer, better (in some sense), more suitable (for our state of techology) one.
 
 ---
-links: [[時間偏好]]、[[]]、[[]]、[[]]、[[]]、[[]]、[[]]、[[]]
+links: [[時間偏好]]
+
 ref: [[道德，是群體的跨期福祉問題]]
 [[We Wrestle Not With Flesh and Blood, but Against Powers and Principalities]]
