@@ -7,8 +7,20 @@
         "id": "a46c0658bc6c94a8",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
+            {
+              "leaf": "a46c0658bc6c94a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📝/道德的動物學基礎.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "a46c0658bc6c94a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📝/社會的價值階級.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":4},\"to\":{\"line\":49,\"ch\":4}},\"scroll\":26.484848484848484}"
+            },
             {
               "leaf": "a46c0658bc6c94a8",
               "group": null,
@@ -116,25 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📝/耶穌作為理想人類的典範.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a46c0658bc6c94a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📝/秩序是靈魂的第一需要.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a46c0658bc6c94a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📝/神作為動詞.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝/Potential & identity.md",
+            "file": "📝/社會的價值階級.md",
             "mode": "source",
             "source": false
           }
@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#📝️",
+                "query": "社會的價值階級",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝/Potential & identity.md",
+                "file": "📝/社會的價值階級.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝/Potential & identity.md",
+                "file": "📝/社會的價值階級.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📝/Potential & identity.md"
+                "file": "📝/社會的價值階級.md"
               }
             }
           }
@@ -283,17 +283,17 @@
     "width": 354.5,
     "collapsed": true
   },
-  "active": "aad3f85826ea091b",
+  "active": "a46c0658bc6c94a8",
   "lastOpenFiles": [
+    "📝/道德的動物學基礎.md",
+    "📝/社會的價值階級.md",
+    "📝/Potential & identity.md",
     "📝/Connecting Buddhism and Christianity.md",
     "📝/Meditation on the materialization of the tech God.md",
     "📝/科技是形塑人類歷史的無形力量.md",
     "📝/The one argument (and why porn and suicide are wrong).md",
     "📝/Every ideal is a judge.md",
     "📝/Criticism on Feminism’s Basic Assumption.md",
-    "📝/Adding Lightness.md",
-    "📝/別把「沒有對方也活得下去」當成經營感情的核心價值.md",
-    "📝/誰是「神」？.md",
-    "🗃/Conservatism/願景的衝突.md"
+    "📝/Adding Lightness.md"
   ]
 }
