@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "9f3279c40dfb55f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a50085fa4511df0",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "3a50085fa4511df0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📝/人與世界的理想關係.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "📝/人與世界的理想關係.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f1740c15547fcc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "364b7f825b715a30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aad3f85826ea091b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#📝️/🌱",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "c5a040a88e4f0e38",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "c5a040a88e4f0e38",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7a83113139c4bc2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7412688da34fb3ec",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346,
+    "collapsed": true
+  },
+  "right": {
+    "id": "bf8c84108f60799f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a98153d17d2cd438",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea4dbf18a75cb6c1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📝/人與世界的理想關係.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b36525f4b456a99",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "📝/人與世界的理想關係.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c81f35de0b117a0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "📝/人與世界的理想關係.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b670552ef2b5e690",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02b7917a7128d910",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "02b7917a7128d910",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📝/儒家思想中的神聖個人.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 354.5,
+    "collapsed": true
+  },
+  "active": "3a50085fa4511df0",
+  "lastOpenFiles": [
+    "📝/Analyzing Dad's Fundamental Viewpoints.md",
+    "📝/人與世界的理想關係.md",
+    "📝/Why you don't want selfless love.md",
+    "Readwise/The Fiat Standard The Debt Slavery Alternative to Human Civilization.md",
+    "🗃/Religion/Bishop Robert Barron Christianity and the Catholic Church.md",
+    "📝/檢驗證據與動機.md",
+    "🗃/斯里蘭卡因ESG破產.md",
+    "Readwise/破產的斯里蘭卡，esg評級幾乎是完美？商周錯了.md",
+    "🗃/Comments/Beware the Man of One Study.md",
+    "🗃/Energy & Tech/Bjorn Lomborg Declares “False Alarm” on Climate Hysteria.md"
+  ]
+}

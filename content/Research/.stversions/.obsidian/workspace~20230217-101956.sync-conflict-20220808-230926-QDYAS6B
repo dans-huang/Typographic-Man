@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "9f3279c40dfb55f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e95faadec02a34b2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0. WIP/探索神、宗教、意義.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f1740c15547fcc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "364b7f825b715a30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18517b58137b8eda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aad3f85826ea091b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331
+  },
+  "right": {
+    "id": "bf8c84108f60799f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a98153d17d2cd438",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea4dbf18a75cb6c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0. WIP/探索神、宗教、意義.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b36525f4b456a99",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0. WIP/探索神、宗教、意義.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "18517b58137b8eda",
+  "lastOpenFiles": [
+    "Readwise/Articles/Glenn Loury, Ian Rowe, and Robert Woodson Debunk Myths about the Black Experience in America.md",
+    "0. WIP/探索神、宗教、意義.md",
+    "Readwise/Articles/Religion/Bishop Robert Barron Christianity and the Catholic Church  Lex Fridman Podcast #304.md",
+    "Readwise/Articles/Bishop Barron Presents  Heather Heying and Bret Weinstein - Evolution and the Modern World.md",
+    "Readwise/Articles/Energy/Daniel Schmachtenberger Bend not Break Maximum Power & Hyper Agents  The Great Simplification #20.md",
+    "Readwise/Articles/Energy/The World’s Coming Energy Catastrophe - Nate Hagens  Modern Wisdom Podcast 508.md",
+    "2. Blocks/Fundamentals/Truth & Logos.md",
+    "4. Release Archive/01. 「樂觀虛無主義」的謬誤.md",
+    "Readwise/Articles/Energy/Why renewables can’t save the planet  Michael Shellenberger  TEDxDanubia.md",
+    "Readwise/Articles/How To Reset Your Brain's Dopamine Balance - Anna Lembke  Modern Wisdom Podcast 392.md"
+  ]
+}
