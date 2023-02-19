@@ -2,20 +2,18 @@
     {{- range . -}}
     <li class="section-li">
         <div class="section">
-            <p>
+            <p class="meta">
+                {{partial "date-fmt.html" .}}
+            </p>
             <div class="desc">
               <h4><a href="{{ .Permalink }}" class="internal-link" data-src="{{ .RelPermalink }}">{{- .Title -}}</a></h4>
             </div>
-            <br>
-            <p class="meta">
-                {{partial "date-fmt.html" .}}
-            <br>
+            <div class="spacer"></div>
             <ul class="tags">
                 {{ range (.GetTerms "tags") }}
                 <li><a href="{{ .Permalink }}">{{ .LinkTitle | title}}</a></li>
                 {{ end }}
             </ul>
-            </p>
         </div>
     </li>
     {{- end -}}
