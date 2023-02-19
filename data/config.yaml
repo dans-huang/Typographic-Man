@@ -27,3 +27,10 @@ links:
 favicon: |
   <link rel="shortcut icon" href="icon.png" type="image/png">
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">  
+languages:
+  en:
+    languageName: English
+    weight: 1
+  zh:
+    languageName: Chinese
+    weight: 2
