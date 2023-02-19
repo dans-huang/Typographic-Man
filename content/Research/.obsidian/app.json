@@ -19,5 +19,6 @@
   "useTab": true,
   "smartIndentList": true,
   "autoPairMarkdown": true,
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "newLinkFormat": "absolute"
 }
