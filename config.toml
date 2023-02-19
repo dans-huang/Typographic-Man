@@ -1,5 +1,12 @@
 baseURL = "https://dans-huang.github.io/Add-Lightness/"
-languageCode = "en-us"
+defaultContentLanguage = 'en'
+[languages]
+  [languages.en]
+    title = 'Add Lightness'
+    weight = 1
+  [languages.zh]
+    title = 'Add Lightness'
+    weight = 2
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
