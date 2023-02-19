@@ -1,7 +1,7 @@
 baseURL = "https://dans-huang.github.io/Add-Lightness/"
 defaultContentLanguage = 'en'
 relativeURLs = false
-disablePathToLower = false
+disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
