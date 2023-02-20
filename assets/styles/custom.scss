@@ -1,28 +1,28 @@
 // Add your own CSS here!
 
 :root {
-  --light: #faf8f8; (background)
-  --dark: #101421; (header)
-  --secondary: #284b63; (blog title)
-  --tertiary: #6a6f85; (title when hover)
+  --light: #faf8f8; 
+  --dark: #101421;
+    --secondary: #284b63;
+  --tertiary: #6a6f85;
   --visited: #afbfc9;
   --primary: #f28482;
-  --gray: #3c3c3c; (text)
-  --lightgray: #f0f0f0; (search bar)
+  --gray: #3c3c3c;
+  --lightgray: #f0f0f0;
   --outlinegray: #dadada;
   --million-progress-bar-color: var(--secondary);
   --highlighted: #f5dfaf88;
 }
 
 [saved-theme="dark"] {
-  --light: #1a1a1d !important; (dark background)
-  --dark: #fbfffe !important; (header)
-  --secondary: #6b879a !important; (blog title)
+  --light: #1a1a1d !important;
+  --dark: #fbfffe !important;
+  --secondary: #6b879a !important;
   --visited: #4a575e !important;
-  --tertiary: #6a6f85 !important; (blog title when hover)
+  --tertiary: #6a6f85 !important; 
   --primary: #f58382 !important;
-  --gray: #d4d4d4 !important; (text)
-  --lightgray: #292633 !important; (search bar)
+  --gray: #d4d4d4 !important; 
+  --lightgray: #292633 !important;
   --outlinegray: #343434 !important;
   --highlighted: #574010;
 }
