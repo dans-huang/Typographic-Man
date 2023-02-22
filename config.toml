@@ -10,9 +10,6 @@ summaryLength = 20
 paginate = 10
 enableGitInfo = true
 
-[frontmatter]
-lastmod = [':git', ':fileModTime']
-
 [markup]
     [markup.tableOfContents]
         endLevel = 3
@@ -30,8 +27,6 @@ lastmod = [':git', ':fileModTime']
         lineNumbersInTable = true
         style = "dracula"
     [frontmatter]
-        lastmod = ["lastmod", ":git", "date", "publishDate"]
-        publishDate = ["publishDate", "date"]
-    [markup.goldmark.renderer]
+        lastmod = [':git', ':fileModTime']    [markup.goldmark.renderer]
         unsafe = true
         
