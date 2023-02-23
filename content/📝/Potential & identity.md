@@ -1,7 +1,11 @@
-tags: #📝️/🌿 
-links: [[Potential]]、[[Meaning]]、[[Morality]]、[[]]、[[]]、[[]]、[[]]、[[]]
-Ref: 
-
+---
+title: "Potential & identity"
+status: 🌿 
+draft: true
+tags:
+- Potential
+- Meaning
+- Morality
 ---
 只要你相信自己活著是有價值和意義的、或假如你確實需要一份價值和意義，那麼你就不可能避開「哪些事物或信念更值得你為之而活」的問題、並在這個問題中找到自己「所能夠成為」的潛能——這是一個我們必須回答的道德問題。
 
@@ -34,3 +38,4 @@ One have to let go of all other possibilities to become something, but something
 Limitation and boundaries give you a sense of self, only on that basis can you have freedom of time and self expression
 
 ---
+See also: 

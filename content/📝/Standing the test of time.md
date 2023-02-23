@@ -1,8 +1,9 @@
-tags: #📝️/🌿 #✍🏼/🔴 
-links: [[Time Preference]]
-ref: [[道德，是群體的跨期福祉問題]]
-[[Readwise/We Wrestle Not With Flesh and Blood, but Against Powers and Principalities]]
-
+---
+title: "Standing the test of time"
+status: 🌿 ✍🏼 
+draft: true
+tags:
+- Time Preference
 ---
 Lindy effect
 
@@ -35,3 +36,6 @@ Ref: [[個人德性的意義與責任]]
   So instead of being completely reactionary, thinking that traditional values/ethics/politcs (ie good ol' days) is better, or even fighting to bring it back (which is probably a universal nostalgia at best), we should strive to think about, pinpoint, and communicate the working principle/philosophy that underly the given time and space (state of technology) and try to extract the principles from the features, so when the next technological advancement comes, we'll have the working principles that allow us to design and promote the new / updated features that'll work in the next state of technology, instead of holding on to the old feature that simply will not work in the next era.
   So in a real software sense it's like, we should strive to understand why Windows 3.11 works (and works very well) given the state of technology, the design principles behind the its features and functionalities, what it was maximizing/optimizing for / oriented toward, and WHY it might or might not still matter for the next version of Windows. With such understanding, can we safely, knowingly, and confidently move forward to the next version, knowing (not full well, but well enough) how to navigate with the latest state of technology like the advancement of face recognition, AI, wireless connection, touch screens, etc, and orient ourselves toward the right goal so it's totally okay for us to abandon the older OS for the newer, better (in some sense), more suitable (for our state of techology) one.
 
+See also: 
+[[道德，是群體的跨期福祉問題]]
+[[Readwise/We Wrestle Not With Flesh and Blood, but Against Powers and Principalities]]

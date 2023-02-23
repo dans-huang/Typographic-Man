@@ -1,7 +1,11 @@
-tags: #📝️/🌱 
-links: [[Society]]、[[Philosophy]]、[[Technology]]、[[]]、[[]]、[[]]、[[]]、[[]]
-ref: https://chat.openai.com/
-
+---
+title: "Adding Lightness"
+status: 🌱
+draft: true
+tags:
+- Society
+- Philosophy
+- Technology
 ---
 # what is lightness
 
@@ -48,3 +52,7 @@ Web 3.0, which is sometimes referred to as the "Semantic Web," has the potential
     
 
 Overall, Web 3.0 has the potential to help the world acquire a global ethic by promoting transparency, collaboration, and accountability, while also protecting privacy and security. It could help to create a more connected and collaborative world, where people work together towards common goals and values. However, it is important to note that the success of Web 3.0 in promoting a global ethic will depend on the values and ethics of the people who develop and use the technology, and on the policies and regulations that are put in place to govern its use.
+
+---
+See also: 
+https://chat.openai.com/

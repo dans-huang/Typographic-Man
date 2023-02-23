@@ -1,7 +1,11 @@
-tags: #📝️/🌿  
-links: [[Morality]]、[[Individual Sovereignty]]、[[Personal Life]]、[[]]、[[]]、[[]]、[[]]、[[]]
-Ref: 
-
+---
+title: "The one argument (and why porn and suicide are wrong)"
+status: 🌿
+draft: true
+tags:
+- Morality
+- Individual Sovereignty
+- Personal Life
 ---
 The sovereignty of individual is the deepest truth I can currently conceive of and can't reason any deeper. I almost have to take a leap of faith and believe that each one of use is made in the image of God, as it sets the very fundamental for our sovereign existence.
 

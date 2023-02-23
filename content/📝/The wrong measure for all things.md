@@ -1,10 +1,15 @@
-tags: #📝️/🌿 
-links: [[Technology]]、[[Finance]]、[[Morality]]、[[Philosophy]]、[[Morality]]、[[Energy]]
-Ref: 
-[[個人德性的意義與責任]]
-
 ---
-
+title: "The wrong measure for all things"
+status: 🌿
+draft: true
+tags:
+- Technology
+- Finance
+- Morality
+- Philosophy
+- Morality
+- Energy
+---
 (How our lives in the 20-21st century can possibly be viewed as a total mistake/detour from the right direction in later centuries when people look back with their re-gained moral knowledge and holistic worldview.) 
 
 - Technological thinking
@@ -50,3 +55,7 @@ Ref:
 	The lack of moral aim is the direct result of human's globalized pursuit of technology advancement and economic growth. We became self-deceived and arrogant by our huge advancement in science and technology which in turn, enables us to rule the world SO much that we happily rendered our traditions, religions, and moral views outdated and useless.
 	
 	A virtuous aim for human ideal, has proven to be more useful than mere scientific reductionism worldview and economic-driven technological advancement. We've lost our meaning for living in the shortsighted pursuit of expediency and technological/scientific utopianism. 
+	
+---
+See also: 
+[[個人德性的意義與責任]]

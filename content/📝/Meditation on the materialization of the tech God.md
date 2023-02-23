@@ -1,10 +1,10 @@
-tags: #📝️/🌱 
-links: [[Technology]]、[[Artificial Intelligence]]、[[]]、[[]]、[[]]、[[]]、[[]]、[[]]
-ref: 
-https://zh.wikipedia.org/zh-tw/%E6%8A%80%E6%9C%AF%E5%8F%B2
-[[Readwise/Technology Is Not Values Neutral Ending the Reign of Nihilistic Design]]
-[[Readwise/Meditations on Moloch]]
-
+---
+title: "Meditation on the materialization of the tech God"
+status: 🌱 
+draft: true
+tags:
+- Technology
+- Artificial Intelligence
 ---
 Tech is almost always designed to solve problem or streamline processes that were otherwise cumbersome. In other words, it's often designed to 'offload' certain things that humans knew how to do but for some reason cannot, would not, and/or fail to do at a larger scale.
 
@@ -39,3 +39,9 @@ With all that combined, in a way we can say that the god of tech simply exploits
 
 I'm not sure if we as a global community, or at least the more important and capable ones that're involved with the creation of the AGI, will be able to agree on a set of rules/values beforehand so that when we materialize the tech God, it'll be on our side, and not see us as pity creatures that are in the way of its further endeavor. 
 
+
+---
+See also: 
+https://zh.wikipedia.org/zh-tw/%E6%8A%80%E6%9C%AF%E5%8F%B2
+[[🗃/Tech/Technology Is Not Values Neutral Ending the Reign of Nihilistic Design]]
+[[🗃/Catastrophic Risk/Meditations on Moloch]]
