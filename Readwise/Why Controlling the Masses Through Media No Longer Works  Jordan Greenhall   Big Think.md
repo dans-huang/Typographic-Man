@@ -1,0 +1,26 @@
+#🗃/🟥 
+ref: 
+https://www.youtube.com/watch?v=a7MHHklZI0Q&ab_channel=BigThink
+
+---
+
+- there's a particular dynamicassociated with the kinds of media thatare broadcast ([View Highlight](https://read.readwise.io/read/01gqymer75t45a3ntjfgwfb7cc))
+- for example broadcasttelevision in the day of three networksthere was only three people who got tobe the anchors who communicate it out tothe entire population is a massiveasymmetry butthe speaker and the listener and there'sno interaction ([View Highlight](https://read.readwise.io/read/01gqymfqkmkqer6dj3c4yskpzv))
+    - Note: between the speaker and the listener
+- it's actually quite interesting that forexample school has a very similar shapeto it in the sense that you've got onespeaker a large audience and very littleinteractivity particularly like theuniversity setting with is a lecture andthere's 500 people in the lecture hallthat is effectively the same thing astelevision in the sense that the therelationship of information flow iseffectively the same ([View Highlight](https://read.readwise.io/read/01gqymh177ykcdms0wqqcn0rkm))
+- this is importantboth from the sort of social dynamics as
+  well as from the psychological dynamicsbecause if as a child your primaryrelationship to how you engage inculture is one of almost certainly beinga pure receiver then your psychologicaldevelopment your set of assumptions andhabituation and how you adapt to theworld will be associated with thatenvironment ([View Highlight](https://read.readwise.io/read/01gqymhxyrb1knvvekewn0cxe9))
+- this implies a certain set of sortof deep psychological structures so we
+  get is a relationship between the themechanisms and techniques andpotentialities of broadcasts as a as aconcepts of school television film theblank and the the behavior strategiesthe habits and even the capacities ofthe individuals in the social layer sowhen you get to the to the mid late 90syou're actually dealing with the societythat could be understood as the Societyof broadcastand that has implications for howdecisions are made ([View Highlight](https://read.readwise.io/read/01gqymnezafvdmtr2kghp09tef))
+- you have a set ofhierarchical structures where theindividuals who have permissionauthority and responsibility forspeaking for having authority areselected in some fashion to bepositioned at the top of the broadcasthierarchy and then the rest of us deferto them ([View Highlight](https://read.readwise.io/read/01gqymp6sg7gmp2dgpn9meyzam))
+- so somebody has written anarticle in Encyclopedia Britannica or
+  some group of people some group ofexperts who have been nominated in somefashion to be positioned as experts andat best take that responsibility veryseriously they pull the the total set ofquestions back into their centers ofexcellence in having conversations andacademic environments and you knowgroups to get together instinct tanksthey produce an authoritative statementof what is in fact our collectiveopinion around this particular objectthey then disseminate it through abroadcast medium and the rest of uslisten to it cohere around it and say okthat's what we do and then move forward ([View Highlight](https://read.readwise.io/read/01gqymqt3z20wc3ytydhcxsysd))
+- this is actually a very powerfulmechanism because it allows us tosimultaneously have hundreds of millionsof people broadly share the basic set ofassumptions about the nature of theworld the nature of what effectiveaction looks like even values what isimportant what's not important ([View Highlight](https://read.readwise.io/read/01gqymrbz3g8nzxv3f64y8pgqj))
+- so amajor piece not the only piece but amajor piece of the transition that we'regoing through is precisely the fact thata decentralized communicationinfrastructure sometimes known as the
+  internet and all the manifestations andmobile everything else radically changesthat dynamic ([View Highlight](https://read.readwise.io/read/01gqyms530qzge9ybkhwdkrsw5))
+- the people who grew up in thepost internet environment have afundamentally different psychologicalset of structures like deep habitualarchitectures and expectations of how tomost effectively present themselves inthe world then people who grew up beforethem ([View Highlight](https://read.readwise.io/read/01gqymwk9kr1vxk91ffztn7qmm))
+- what that will mean is twothingsone is the set of techniques andapproaches that socially evolved in thetelevision and the broadcast era are
+  suddenly maladaptive in this newpsychological ecosystem ([View Highlight](https://read.readwise.io/read/01gqymxj35m9vf8wwj5may3br8))
+- but thepsychology and the technology of theinternet or of this the decentralizedasymmetrical medium is one of no no weget to critique we get to directlyrespond to and things that feel like
+  they are broadcasters feel like they arequite obviously intending to influenceus emotionally we know what that feelslikeand it doesn't it doesn't work anymoreso we're going to respond to that andour ability to respond swarms around itand breaks it up ([View Highlight](https://read.readwise.io/read/01gqyn0njg5eexaas51f3tkxn9))
+- I think at least a reasonably goodexplanation for what's been happening inthe political domain over the past 30 or40 years and certainly over the past two ([View Highlight](https://read.readwise.io/read/01gqyn11gjcw48rbfapanxdgnb))

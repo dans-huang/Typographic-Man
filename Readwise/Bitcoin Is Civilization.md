@@ -1,0 +1,28 @@
+#🗃/🟥 
+ref: 
+https://www.thefp.com/p/is-bitcoin-anarchy-or-civilization
+
+---
+
+- If you care about free speech and privacy, if you care about free trade and rule-of-law, if you care about provable fairness and economic stability, then you should care about cryptocurrency. ([View Highlight](https://read.readwise.io/read/01gp62bjny33xceyr6zv859f4z))
+- 1. Crypto Protects Human Rights Around the World ([View Highlight](https://read.readwise.io/read/01gp62cww93heygt94v3vp201m))
+- Bitcoin might seem like a curiosity in a democracy with a stable currency. But in countries with deeply unstable economies and authoritarian politics, it is a lifeline. ([View Highlight](https://read.readwise.io/read/01gp62esn5sz7965h93j5nh3vm))
+- 2. Crypto Provides Currency Stability ([View Highlight](https://read.readwise.io/read/01gp62ey6bckztvaxnd4c7j949))
+- Bitcoin — digital gold — offers an algorithmic, written, transparent, cryptographically-enforced monetary policy that can be predicted far into the future. ([View Highlight](https://read.readwise.io/read/01gp62gx1fcce3deymsrcfvb56))
+- 3. Crypto’s Decentralization Guarantees Fairness ([View Highlight](https://read.readwise.io/read/01gp62htnajh3f5w1ard9sbcr1))
+- 4. Crypto Protects Free Speech ([View Highlight](https://read.readwise.io/read/01gp65m7x76k99skf2b97x7byn))
+- The spirit of the First Amendment is under attack from giant technology companies and media corporations, with institutional diktat treated as truth and speech restrictions imposed in the name of content moderation. Decentralized social networks allow users to make an end run around these companies. ([View Highlight](https://read.readwise.io/read/01gp94wrb42qxhmsd12mac61r0))
+- 5. Crypto Protects Private Property ([View Highlight](https://read.readwise.io/read/01gp94x751hbyna7zkty4f7vgy))
+- Fortunately, technologists spent the decade building crypto protocols and digital assets that replace the need for bank access entirely. ([View Highlight](https://read.readwise.io/read/01gpaakcwkf1d0qskqyks4mr8n))
+- It is much harder for an oppressive government to arbitrarily seize (or even locate) someone’s digital property. This resets the relationship between state and citizen to make it *impossible* to search your digital “papers and effects” without your consent. No doubt we can imagine abuses, but when legislative approaches fail, only something unyieldingly principled can bring back the spirit of the Fourth Amendment. ([View Highlight](https://read.readwise.io/read/01gp94z222qbs4js7pqdn51b83))
+- 6. **Crypto Protects Online Privacy** ([View Highlight](https://read.readwise.io/read/01gp94z4ahb1533tnrhz7zd8p6))
+- just like the internet was a highly monetizable platform for software, crypto is turning out to be a highly monetizable application of encryption ([View Highlight](https://read.readwise.io/read/01gp95067636mwrxgzfjp0j3pn))
+- 7. Crypto Is the Next Silicon Valley ([View Highlight](https://read.readwise.io/read/01gp9507hz0bzm0anydfjskfj0))
+- The next center of innovation isn’t in Silicon Valley, it’s on-chain. And we should cheer the transition from Google’s “Don’t Be Evil” to crypto’s “[Can’t Be Evil](https://www.coindesk.com/cant-evil-google-inspired-case-blockchain-tech).” ([View Highlight](https://read.readwise.io/read/01gp950yv0hr03trqeazvjmfjs))
+- 8. Crypto’s Smart Contracts Replace Fallible Courts and Lawyers ([View Highlight](https://read.readwise.io/read/01gp9513mjdjpev512kmhr83rw))
+- Lawyers and judges are fallible and can be fickle. Smart contracts built on blockchain technology are not. ([View Highlight](https://read.readwise.io/read/01gp95256rrfsxswab2xrad0hw))
+- 9. Crypto’s Economic Alignment Addresses Social Polarization ([View Highlight](https://read.readwise.io/read/01gp9529zy7r7mz2ht0yzmaz43))
+- Legacy media and social media have polarized us, but cryptocurrencies offer the possibility of bringing us together on the basis of tangible, quantifiable economic alignment. ([View Highlight](https://read.readwise.io/read/01gp9536j1g6eb7x4a9wq6j1be))
+- 10. Crypto’s International Protocols Are the New Code-Based Order ([View Highlight](https://read.readwise.io/read/01gp9539xvhg0t8qdxwkb4d7zn))
+- Cross-border trade is alive and well on-chain. Indeed, it’s not too far-fetched to believe that by 2030 or 2040, *most* cross-border trade may be mediated in whole or in part by a smart contract. ([View Highlight](https://read.readwise.io/read/01gp9544t0mcdgzkpbtrxremkp))
+- It's internationalist and capitalist, offering global equality of opportunity to anyone with an internet-connected device, which will soon be everyone. What Pax Americana purported to guarantee with guns, Pax Bitcoinica guarantees with code. ([View Highlight](https://read.readwise.io/read/01gp9558jwd9774gpaghfxmv69))
