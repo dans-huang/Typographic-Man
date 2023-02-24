@@ -50,7 +50,7 @@ other = "搜尋圖標"
 other = "打開搜尋圖標"
 
 [recent_notes]
-other = "近期寫作"
+other = "近期更新"
 
 [first_3_notes]
 other = "前3個 {{ .notes }}"
