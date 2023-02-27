@@ -2,10 +2,12 @@
 title: "Add Lightness"
 enableToc: false
 ---
-# what is lightness
+"Add Lightness"一詞出自英國蓮花跑車創始人Colin Chapman的名言——"Simplify, then add lightness"。他秉持「少即是多」的設計原則，致力減輕汽車的不必要重量，不但使車速更快、更加可靠、也更易操控。他打造的車款無論在F1賽道上或跑車界至今都仍是獨樹一幟的標竿。
 
-In the context of design and engineering, "lightness" refers to the reduction of weight or mass in a product or structure without compromising its strength, stability, or performance. Lightness is often sought after because it can result in greater efficiency, improved performance, and reduced resource consumption, while still maintaining or improving the quality and durability of the product.
+德國百靈的首席設計師Dieter Rams，亦秉持「少但更好」的設計理念，他相信好的設計要簡單、優雅、有明確的功能性，並且環保、耐用、永續。優秀的設計應該是隱形的、單純地關注使用者的需求。Rams的設計深刻影響了我們熟知的許多Apple產品，以及更廣大的設計界。
 
-For example, in the automotive industry, "adding lightness" has been a guiding principle for many high-performance sports cars, with automakers using lightweight materials like aluminum and carbon fiber to reduce weight and increase speed and handling. In the aerospace industry, reducing the weight of aircraft and spacecraft is critical for efficiency and safety.
+這種「以更少、更簡單、更優雅的設計和方法去完成更多」的哲學，令我深深著迷。我並非崇尚極簡主義，而是熱愛純粹、精鍊、去蕪存菁的高度實用性。這一點清楚地彰顯於蓮花跑車、百靈設計、和我指下的[HHKB](https://hhkb.io/)，但在比特幣、區塊鏈、Web 3.0等新興話題，或是儒家思想、基督教教義、斯多葛學派等偉大傳統中，我同樣能看見、並致力宣揚那份精鍊、實用、通過時間考驗的精義。
 
-In design, lightness can also refer to the appearance or perception of lightness, even if the actual weight or mass of the object has not been reduced. For example, a product with a minimalist or streamlined design might appear "light" and unobtrusive, even if it is physically heavy.
+二十一世紀的人類世界，正迫切地需要系統性的更新，以及個人倫理的轉化。我們已經身陷多重危機、而更多挑戰也近在咫尺。因此在這裡，我將嘗試探索**協調眾人、治理社群、指引個人，並經得起時間考驗、彰顯人性良善的原則和工具**。碰觸的主題包含道德、宗教、政治、能源、金融、科技、以及其他攸關二十一世紀人類生存的事物。
+
+我個人思考的習慣，是探究事物運行背後的第一原則，再由第一原則去堆砌出下一個層次的原則，直到可以解釋事物的運作、應該如何運作、和應該如何調整為止。我可能會寫出一些看似形而上的概念，但我會盡力將它們講得淺顯、直觀、符合常識。無論你是否同意我前提、原則、結論、和解法，都希望這些原則性的思辯能對你有用。
