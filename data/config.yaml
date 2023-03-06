@@ -1,6 +1,6 @@
 name: Dans Huang
-enableToc: true
-openToc: true
+enableToc: false
+openToc: false
 enableLinkPreview: false
 enableLatex: true
 enableCodeBlockTitle: true
