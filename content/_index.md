@@ -1,5 +1,5 @@
 ---
-title: "Typographic Man"
+title: "The Typographic Man"
 enableToc: false
 ---
 在這裡，我試圖探索**用以協調、治理、指引人類——且經得起時間考驗、能最大化人性良善——的原則和工具。** 碰觸的主題包含道德、宗教、政治、能源、金融、科技、以及其他攸關二十一世紀人類生存的事物。
